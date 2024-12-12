@@ -1,4 +1,7 @@
 /* Base Styles */
+*{
+    list-style: none;
+}
 body {
     font-family: 'Arial', sans-serif;
     margin: 0;
